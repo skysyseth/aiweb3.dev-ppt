@@ -11,5 +11,19 @@
             "src": "/",
             "dest": "/index.html"
         }
+    ],
+    "rewrites": [
+        {
+            "source": "/(css|js|public|slides)/.*",
+            "destination": "/$1/$2"
+        },
+        {
+            "source": "/",
+            "destination": "/index.html"
+        },
+        {
+            "source": "/((?!css|js|public|slides).*)",
+            "destination": "/index.html"
+        }
     ]
   }
