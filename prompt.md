@@ -35,36 +35,50 @@
 
 这次活动 PPT 的具体信息如下
 
-
-🔛 AI³ 深圳站迷你黑客松正式开启
+🔛 AI³ 北京站迷你黑客松正式开启
 OpenBuild 与周周黑客松🤝联合发起亚太区 AI+Web3 开发者成长计划 —— AI³ Growth Journey，从 3 月开始，在未来的 10 个月里，每个月在随机选择热点城市举办线下 Mini-Hackathon，引导开发者产出与 Web3+AI 特定主题/生态相关的项目应用。
-3 月 30 日（周日），AI³ 亚太行「第一站」线下迷你黑客松「深圳」来了！
+6 月 21 日（周六），AI³ 亚太行「第四站」线下迷你黑客松「北京」来了！
 🧑‍💻 与顶尖开发者同台竞技
-本期主题：使用AI代码助手（Cursor/Copilot）编写智能合约。带上你的电脑，4 小时极限开发，真正来部署 1 个产品。
-图片
+本期主题：Explore Web2 applications to Web3，希望探索成熟 Web2 应用结合 Web3 可以带来的创新和突破，改变已有的交互。带上你的电脑，4 小时极限开发，真正来部署 1 个产品。
 💡  活动详情
-📒 主题：使用AI代码助手编写智能合约
+📒 主题：Explore Web2 applications to Web3
 💻 类型：线下迷你黑客松
-📅 时间：3 月 30 日（周日）13:30-18:30
-🏠 地点：深圳南山前海（入群后有详细地址）
-🔗 报名：https://lu.ma/cpzc7gka
+📅 时间：6 月 21 日（周六）9:00-18:00
+🏠 地点：北京市西城区（报名后获取详细地址）
+🔗 报名：https://lu.ma/xb7d42o4
 Image
-🔔  活动流程
-▶ 13:30-14:00 
-「 签到 」：登记，物料分发
-▶ 14:00-14:30 
-「 社区介绍 」：欢迎致辞，规则说明，导师分享
-▶ 14:30-15:00 
-「 产品验证 」：团队头脑风暴，问题定义，初步解决方案构思
-▶ 15:00-17:00 
-「 产品开发 」：专注开发时间，技术支持
-▶ 17:00-18:00 
-「 Demo展示与投票 」：5分钟路演，评审，颁奖
-▶ 18:00-18:30 
-「 互动交流 」：非正式讨论，场地清理
-🧑‍💻  适合人群
-『Web2开发者』需参加过线上 Workshop 
-『Web3开发者』需有 Cursor 或 AI 编程经验
+🎫 活动流程
+​▶ 09:30-10:00 「 签到 」：
+​ 登记、物料分发、参与者入场
+​▶ 10:00-10:30 「 开场致辞 」：
+​欢迎致辞 & 赞助商发言、活动目标介绍、参与者注意事项
+​▶ 10:30-11:30 「 嘉宾分享 」：
+​微扰理论  《黑客松 ->创业!According.Work 的故事》
+​京程一灯  《讲给大前端工程师的AI课》
+​更多精彩分享，欢迎现场体验
+​▶ 11:30-12:00 「 现场组队与头脑风暴 」：
+​为未成功线上组队的参与者提供现场组队
+​▶ 12:00-12:30 「 团队开发 」：
+​团队内部讨论与开发时间，提供必要的技术支持
+​▶ 12:30-13:30 「 午餐休息 」：
+​休息、交流、自由讨论
+​🍕为大家安排披萨/猪脚饭作为午餐🍕
+​▶ 13:30-17:00 「 团队开发 」：
+​持续开发时间，进一步完善产品或解决方案
+​▶ 17:00-17:45 「 项目 Demo展示 」：
+​各团队展示项目，5分钟路演
+​▶ 17:45-18:00 「 评审与颁奖 」：
+​评审团评分、奖项公布与颁发
+​▶ 18:00-18:30 「 互动交流 」：
+​非正式讨论、自由交流、场地清理
+
+​😋 活动全程提供免费的零食和饮料！
+
+​🧑‍💻适合人群
+​Web2 开发者需参加过线上 Workshop 
+​Web3 开发者需有 Cursor 或 AI 编程经验
+​主打新手友好！
+
 ✅  你将收获
 AI³ Growth Journey 将帮助你在 AI+Web3 融合创新的浪潮中占据先机，获取独特优势
 ◆ 「 掌握前沿技术 」
@@ -78,28 +92,26 @@ AI³ Growth Journey 将帮助你在 AI+Web3 融合创新的浪潮中占据先机
 
 
 📢 AI³ Growth Journey 黑客松组队接龙
-⏰ 活动时间：3月30日(周日) 13:30-18:00
-📍 地点：深圳南山区前海梦工场 10 号楼 106 会议室（梦海地铁 C 出口）
-🎯 活动重点：4小时迷你黑客松，使用AI助手开发智能合约，跨界协作：Web2 × Web3 × AI
-⚠️ 参与要求：场地人数有限，仅 30 名额！参与活动有机会获得奖金和社区周边哦，请组队成功且符合以下条件再接龙！
+⏰ 活动时间：2025 年 6 月 21 日（周六）9:00-18:00
+📍 地点：北京市西城区（报名后获取详细地址）
+🎯 活动重点：4小时迷你黑客松，使用AI助手探索成熟 Web2 应用结合 Web3 可以带来的创新和突破，改变已有的交互，跨界协作：Web2 × Web3 × AI
+⚠️ 参与要求：场地人数有限，仅 50 名额！参与活动有机会获得奖金和社区周边哦，请组队成功且符合以下条件再接龙！
 - Web2开发者：需参加过线上workshop 并完成，教程地址：https://aiweb3.dev 
 - Web3开发者：需有AI编程
 如 Cursor/Trae 使用经验
-- 组队成功后请在表格中填写信息！https://hackathonweekly.feishu.cn/wiki/DYYdwEYtjiutzCkl4nkc4saqnZu
+- 组队成功后请在表格中填写信息！https://kaiyuanshe.feishu.cn/wiki/BqgOwyPORi3bKvkqZW9cy3v2neb
 
 🎁 Tips：
 - 建议跨领域组队，优势互补
 - 提前沟通项目想法
 - 组队成功后可以提前准备项目框架
 
-我们有技术支持 + 评委： jackie / alfred / Jeason, 他们同时也会各做 8 分钟的分享, Jackie 是主持人 
+我们有技术支持 + 评委： 微扰理论 according.work @Carol Yiting 以及 0G 的 Vanessa, Carol Yiting 是主持人 
 
-分享一： jackie, 社区介绍 + Cursor 案例 https://hackathonweekly.feishu.cn/wiki/LNjiwNC7vi7CwWkKs0YcmT7vnBc
-分享一： alfred , 用 AI 打开 Web3 新世界大门 ， ppt 链接： https://www.canva.com/design/DAGiy2wn5UQ/8cRDWkXkwspotMfsFSAxcA/view?utm_content=DAGiy2wn5UQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h39d9820bf1
-分享二：Jeason , Web2 开发如何转行到 Web3, ppt 链接： https://gamma.app/docs/Web2-Web3-lqtlv4k9esvc95b?mode=doc
+分享一： ​微扰理论, 《黑客松 ->创业!According.Work 的故事》
+分享二： ​京程一灯 , 《讲给大前端工程师的AI课》
 
-
-活动的详细信息，还有奖项在这里： https://aiweb3.dev/docs/2025-03
+活动的详细信息，还有奖项在这里： https://aiweb3.dev/docs/2025-03 【注意这个是深圳站的活动信息，仅供参考，如有冲突以北京站信息为准，北京站未提供的信息参考深圳站的信息】
 
 HackathonWeekly logo public/images/HackathonWeekly/logo.png， 公众号二维码 public/images/HackathonWeekly/wechat_official_qr.jpg
 openbuild logo public/images/openbuild/OpenBuild Logo Black-JPG.jpg
