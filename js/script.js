@@ -16,7 +16,7 @@ const menuItems = document.querySelectorAll('.sidebar-menu li');
 // All slide identifiers in order
 const slideIds = [
     '1', '2', 
-    '12-organizers', '12-sponsors', '12-0g',
+    '12-organizers', '12-sponsors',
     '3',  '5', '6', '7',  '9', '10', 
     '11', '8', 'team-formation',
     '14', '14d', '14c', '14b', '14a', '13', '15',
