@@ -111,7 +111,7 @@ AI³ Growth Journey 将帮助你在 AI+Web3 融合创新的浪潮中占据先机
 分享一： ​微扰理论, 《黑客松 ->创业!According.Work 的故事》
 分享二： ​京程一灯 , 《讲给大前端工程师的AI课》
 
-活动的详细信息，还有奖项在这里： https://aiweb3.dev/docs/2025-03 【注意这个是深圳站的活动信息，仅供参考，如有冲突以北京站信息为准，北京站未提供的信息参考深圳站的信息】
+活动的详细信息，还有奖项在这里： https://aiweb3.dev/docs/2025-03 【注意这个是北京站的活动信息，仅供参考，如有冲突以北京站信息为准，北京站未提供的信息参考北京站的信息】
 
 HackathonWeekly logo public/images/HackathonWeekly/logo.png， 公众号二维码 public/images/HackathonWeekly/wechat_official_qr.jpg
 openbuild logo public/images/openbuild/OpenBuild Logo Black-JPG.jpg
