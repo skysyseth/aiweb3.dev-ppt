@@ -1,23 +1,14 @@
 {
     "version": 2,
+    "name": "aiweb3-dev-ppt",
     "builds": [
-      {
-        "src": "index.html",
-        "use": "@vercel/static"
-      }
+      { "src": "*.html", "use": "@vercel/static" },
+      { "src": "slides/*.html", "use": "@vercel/static" },
+      { "src": "css/**", "use": "@vercel/static" },
+      { "src": "js/**", "use": "@vercel/static" },
+      { "src": "public/**", "use": "@vercel/static" }
     ],
-    "rewrites": [
-      {
-        "source": "/(css|js|public|slides)/(.*)",
-        "destination": "/$1/$2"
-      },
-      {
-        "source": "/",
-        "destination": "/index.html"
-      },
-      {
-        "source": "/((?!css|js|public|slides).*)",
-        "destination": "/index.html"
-      }
+    "routes": [
+      { "src": "/(.*)", "dest": "/$1" }
     ]
   }
