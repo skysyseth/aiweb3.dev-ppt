@@ -1,23 +1,23 @@
 {
     "version": 2,
     "builds": [
-        {
-            "src": "index.html",
-            "use": "@vercel/static"
-        }
+      {
+        "src": "index.html",
+        "use": "@vercel/static"
+      }
     ],
     "rewrites": [
-        {
-            "source": "/(css|js|public|slides)/.*",
-            "destination": "/$1/$2"
-        },
-        {
-            "source": "/",
-            "destination": "/index.html"
-        },
-        {
-            "source": "/((?!css|js|public|slides).*)",
-            "destination": "/index.html"
-        }
+      {
+        "source": "/(css|js|public|slides)/(.*)",
+        "destination": "/$1/$2"
+      },
+      {
+        "source": "/",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/((?!css|js|public|slides).*)",
+        "destination": "/index.html"
+      }
     ]
   }
